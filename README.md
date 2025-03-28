@@ -9,6 +9,7 @@ Anime-style companion for your Pwnagotchi, generated with a local AI. This mod r
   <img src="ScreenShot/Awake.jpg" width="45%" alt="Awake State">
   <img src="ScreenShot/Cool.jpg" width="45%" alt="Cool State">
 </p>
+(The Files got updatet, so that the bottom Line doesn't get cut of like on the Preview)
 
 ## Requirements
 
