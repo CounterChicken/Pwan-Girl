@@ -24,7 +24,7 @@ For installation help, check out this tutorial:
 ## Voice
 I made a custom voice.py for the Charakter too. 
 
-If you managed to add the Face you will have no probelm adding the Voice. 
+If you managed to add the Face you will have no problem adding the Voice. 
 Use FileZilla with Root access and enter /home/pi/.pwn/lib/python3.11/site-packages/pwnagotchi/voice.py
 Replace the voice.py and voila!
 
